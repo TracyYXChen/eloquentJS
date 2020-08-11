@@ -1,7 +1,8 @@
 # simple Mario
 
-##Overview
-The game is like a simplified version of superMario. 
+## Overview
+
+The game is called DarkBlue, but like a simplified version of superMario. 
 
 Users control the **black** player square to walk on the **white** ground to collect **golden** coins while evading **red** lava. Note there are two types of lava, one is a pool trapped by walls, while the other is dripping.
 
