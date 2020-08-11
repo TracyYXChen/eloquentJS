@@ -1,2 +1,2 @@
 # eloquentJS
-Interesting examples from eloquent [JavaScript](https://eloquentjavascript.net/index.html)
+Interesting examples from [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
